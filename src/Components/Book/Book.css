@@ -1,0 +1,18 @@
+.main-book{
+    display: flex;
+    float: left;
+    max-width: 30%;
+    margin-left:6%;
+    margin-top: 50px;
+    justify-content: space-between;
+    
+    border-radius: 200px;
+}
+.main-book img{    
+    width: 100%;
+    position: relative;
+    
+}
+.text h4{
+    position: absolute;
+}
